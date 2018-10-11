@@ -1,0 +1,12 @@
+O
+MC:\Workspace\test_net\NetcoreProject\Areas\Api\Controllers\AlbumController.csD
+BC:\Workspace\test_net\NetcoreProject\Controllers\HomeController.csE
+CC:\Workspace\test_net\NetcoreProject\Controllers\PhotoController.cs?
+=C:\Workspace\test_net\NetcoreProject\Models\AlbumViewModel.cs?
+=C:\Workspace\test_net\NetcoreProject\Models\ErrorViewModel.cs?
+=C:\Workspace\test_net\NetcoreProject\Models\PhotoViewModel.cs1
+/C:\Workspace\test_net\NetcoreProject\Program.cs1
+/C:\Workspace\test_net\NetcoreProject\Startup.cs[
+YC:\Workspace\test_net\NetcoreProject\Views\Shared\Components\AlbumGallery\AlbumGallery.csT
+PC:\Users\David\AppData\Local\Temp\.NETCoreApp,Version=v2.0.AssemblyAttributes.cs_
+[C:\Workspace\test_net\NetcoreProject\obj\Debug\netcoreapp2.0\NetcoreProject.AssemblyInfo.cs

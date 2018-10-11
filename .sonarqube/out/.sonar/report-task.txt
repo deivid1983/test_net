@@ -1,0 +1,6 @@
+projectKey=SonarGallery
+serverUrl=https://sonargallery.azurewebsites.net
+serverVersion=7.1.0.11001
+dashboardUrl=https://sonargallery.azurewebsites.net/dashboard/index/SonarGallery
+ceTaskId=AWZiF_-ljGhPK7Weu7WU
+ceTaskUrl=https://sonargallery.azurewebsites.net/api/ce/task?id=AWZiF_-ljGhPK7Weu7WU

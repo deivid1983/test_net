@@ -17,7 +17,7 @@ namespace Service
 
     public class AlbumService : IAlbumService
     {
-        // Testing Continous Integration - SonarQube
+        // Testing Continous Integration - SonarQube2
         private readonly AlbumDbContext _context;
 
         public AlbumService(

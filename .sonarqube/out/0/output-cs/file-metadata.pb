@@ -1,0 +1,11 @@
+/
+-C:\Workspace\test_net\Model\AlbumDbContext.cs-
++C:\Workspace\test_net\Model\Domain\Album.cs-
++C:\Workspace\test_net\Model\Domain\Photo.csB
+@C:\Workspace\test_net\Model\Migrations\20171221171211_Initial.csM
+IC:\Workspace\test_net\Model\Migrations\20171221171211_Initial.Designer.csL
+JC:\Workspace\test_net\Model\Migrations\20171221194757_AddPhotosForAlbum.csW
+SC:\Workspace\test_net\Model\Migrations\20171221194757_AddPhotosForAlbum.Designer.csI
+EC:\Workspace\test_net\Model\Migrations\AlbumDbContextModelSnapshot.csT
+PC:\Users\David\AppData\Local\Temp\.NETCoreApp,Version=v2.0.AssemblyAttributes.csM
+IC:\Workspace\test_net\Model\obj\Debug\netcoreapp2.0\Model.AssemblyInfo.cs

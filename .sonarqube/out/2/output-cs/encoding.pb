@@ -1,0 +1,10 @@
+V
+MC:\Workspace\test_net\NetcoreProject\Areas\Api\Controllers\AlbumController.csutf-8K
+BC:\Workspace\test_net\NetcoreProject\Controllers\HomeController.csutf-8L
+CC:\Workspace\test_net\NetcoreProject\Controllers\PhotoController.csutf-8F
+=C:\Workspace\test_net\NetcoreProject\Models\AlbumViewModel.csutf-8F
+=C:\Workspace\test_net\NetcoreProject\Models\ErrorViewModel.csutf-8F
+=C:\Workspace\test_net\NetcoreProject\Models\PhotoViewModel.csutf-88
+/C:\Workspace\test_net\NetcoreProject\Program.csutf-88
+/C:\Workspace\test_net\NetcoreProject\Startup.csutf-8b
+YC:\Workspace\test_net\NetcoreProject\Views\Shared\Components\AlbumGallery\AlbumGallery.csutf-8
